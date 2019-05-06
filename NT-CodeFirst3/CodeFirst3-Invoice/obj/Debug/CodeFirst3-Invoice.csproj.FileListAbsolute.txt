@@ -1,0 +1,40 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormCounty.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormCustomer.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormProduct.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormUnit.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.Migrations.OriginalDB.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csprojAssemblyReference.cache
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.Form1.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormCity.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormCounty.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormCustomer.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormProduct.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.FormUnit.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.Properties.Resources.resources
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.GenerateResource.cache
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.CoreCompileInputs.cache
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.exe
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.pdb
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.exe.config
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.exe
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\CodeFirst3-Invoice.pdb
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.dll
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.SqlServer.dll
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.xml
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\bin\Debug\EntityFramework.SqlServer.xml
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3-Invoice.csproj.CopyComplete
+F:\ADO Sonrası\Yeni klasör\NT-CodeFirst3\CodeFirst3-Invoice\obj\Debug\CodeFirst3_Invoice.Migrations.ek1.resources
